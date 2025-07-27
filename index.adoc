@@ -1,0 +1,5 @@
+= Welcome
+
+I am a lecturer in Mathematics and Data Science at the https://ase.uva.nl/[Amsterdam School of Economics], part of the https://uva.nl/[University of Amsterdam].
+
+I am the developer of https://ravirajani.github.io/asciidoctor-html/[asciidoctor-html] which helps me produce accessible HTML lecture notes from https://asciidoc.org/[AsciiDoc] sources.
