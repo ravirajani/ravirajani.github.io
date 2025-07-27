@@ -1,0 +1,9 @@
+== Template repository for asciidoctor-html
+
+The AsciiDoc sources will automatically get converted to HTML and deployed to GitHub Pages when pushing your changes.
+
+If you want to build the site locally, install the dependencies with `bundle install` and then run `adoctohtml`. This will
+build your site in the `www/` folder.
+
+.More information
+See https://ravirajani.github.io/asciidoctor-html/[asciidoctor-html].
