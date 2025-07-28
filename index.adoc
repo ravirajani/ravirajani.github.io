@@ -2,6 +2,6 @@
 
 I am a lecturer in Mathematics and Data Science at the https://ase.uva.nl/[Amsterdam School of Economics], part of the https://uva.nl/[University of Amsterdam].
 
-I am the developer of https://ravirajani.github.io/asciidoctor-html/[asciidoctor-html] which helps me produce accessible HTML lecture notes from https://asciidoc.org/[AsciiDoc] sources.
+The https://github.com/ravirajani/ravirajani.github.io[repo] for this webpage is a https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template[template repository].
 
-The repo for this webpage is a https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template[template repository]. Simply create a new repository from this template and write your AsciiDoc content. When you push your changes, a generated HTML website will automatically get deployed to your GitHub Pages site, provided you have enabled *GitHub Actions* as your Build and Deployment Source under `Settings > Pages`.
+include::README.adoc[]
