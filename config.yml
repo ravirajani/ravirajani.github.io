@@ -1,6 +1,5 @@
 title: Ravi Rajani
-author: Ravi Rajani
-date: 27 July 2025
-
+authors:
+  - Ravi Rajani
 chapters:
   - index.adoc
