@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     asciidoctor (2.0.23)
-    asciidoctor-html (1.0.0)
+    asciidoctor-html (1.0.1)
       asciidoctor (= 2.0.23)
       filewatcher (= 2.1.0)
       nokogiri (= 1.18.9)
